@@ -1,0 +1,8 @@
+.dotted {
+  outline-style: dotted; /* same result as "outline: dotted" */
+}
+.dashed {
+  outline-style: dashed;
+}
+
+* { outline-width: 10px; padding: 15px; }
